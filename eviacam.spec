@@ -11,6 +11,7 @@ BuildRequires:	opencv-devel
 BuildRequires:	libxtst-devel
 BuildRequires:	libdc1394-devel
 BuildRequires:	pkgconfig(libv4l2)
+BuildRequires:	gettext-devel
 BuildRequires:	dos2unix
 
 %description
