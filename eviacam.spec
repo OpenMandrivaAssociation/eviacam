@@ -4,7 +4,7 @@ Release:	%mkrel 1
 Summary:	A Cross-Platform Webcam Based Mouse Emulator
 License:	GPLv3+
 Group:		Accessibility
-URL:		http://eviacam.sourceforge.net/eviacam.php
+URL:		https://eviacam.sourceforge.net/eviacam.php
 Source:		%{name}-%{version}.tar
 BuildRequires:	wxgtku-devel
 BuildRequires:	opencv-devel
