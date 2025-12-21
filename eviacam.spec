@@ -6,6 +6,11 @@ License:	GPLv3+
 Group:		Accessibility
 URL:		https://eviacam.sourceforge.net/eviacam.php
 Source:		%{name}-%{version}.tar
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	wxgtku-devel
 BuildRequires:	opencv-devel
 BuildRequires:	libxtst-devel
